@@ -13,11 +13,11 @@ Time spent: 6 hours spent in total
 - SNORT: 21 Alerts
 
 ### Main Screen
-img src='http://i.imgur.com/7i7HRbj.png' title='Video Walkthrough' width='500px' alt='Video Walkthrough'/>
+<img src='http://i.imgur.com/7i7HRbj.png' title='Video Walkthrough' width='500px' alt='Video Walkthrough'/>
 
 
 ### SNORT Alerts
-img src='http://i.imgur.com/BeS2M2Q.png' title='Video Walkthrough' width='500px' alt='Video Walkthrough'/>
+<img src='http://i.imgur.com/BeS2M2Q.png' title='Video Walkthrough' width='500px' alt='Video Walkthrough'/>
 
 
 ## Describe any challenges encountered while doing the project
